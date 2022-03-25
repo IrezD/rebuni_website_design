@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600&family=Inter:wght@300;400;500&family=Montserrat:wght@400;500;600;700&family=Philosopher&family=Prata&display=swap');
+
+
+
+font-family: Montserrat
+
+bgcolor: #fff
+
+font-text color: #252525
+
+subtext/paragraphs color: #8C8C8C
+
+text bullet-point color: #EE542B
+
+slide control-point inactive color / border-line color: #D5D5D5
+
+
+--------------------------------------------------------------
+
+Links:
+
+Search Icon: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/VisualEditor_-_Icon_-_
+Search-big_-_white.svg/1200px-VisualEditor_-_Icon_-_Search-big_-_white.svg.png
+
+----
+
+Main Image: https://www.printawallpaper.com/wp-content/uploads/2020/07/
+wooden_dock_d.jpg
+
+
+----
+
+Avatar Image: https://c4.wallpaperflare.com/wallpaper/617/359/737/
+back-beach-fist-guy-wallpaper-preview.jpg
