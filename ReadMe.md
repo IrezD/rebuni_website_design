@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dennis Owie (@IrezD) 
-- 👀 I’m a Frontend developer
-- 🌱 I’m currently learning HTML, CSS,& JavaScript as well as JS frameworks like REACT
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on some design projects
-- 📫 How to reach me is to hit my mail.. dennysben@gmail.com
+- 📫 Feel free to hit me up via email - dennysben@gmail.com
 <br><br>d<!----
 I saw this image of lumious and decided to make a resonspive design for it for the fun of it.
 --->
